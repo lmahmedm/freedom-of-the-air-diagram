@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" modified="2026-09-27T00:00:00.000Z" agent="Mozilla/5.0" version="24.7.17" type="device">
+  <diagram id="freedom-of-the-air" name="Freedom of the Air">
+    <mxGraphModel dx="1434" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="title" />
+        <mxCell id="canvas" parent="title" />
+
+        <mxCell id="titleText" value="Freedom of the Air" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#111827;" vertex="1" parent="canvas">
+          <mxGeometry x="220" y="20" width="500" height="40" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="box1" value="1st Freedom (Overflight)&#xa;The right to fly across a foreign country&#39;s territory without landing.&#xa;&#xa;Example: A Canadian airline flying over the U.S. to reach Mexico." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#1D4ED8;fontSize=16;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="90" width="820" height="120" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="box2" value="2nd Freedom (Technical Stop)&#xa;The right to land in a foreign country for non-traffic purposes, such as refueling or maintenance.&#xa;&#xa;Example: A plane lands in Germany for fuel, but no passengers are picked up or dropped off." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontSize=16;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="230" width="820" height="120" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="box3" value="3rd Freedom (International Outbound)&#xa;The right to fly passengers from the airline&#39;s home country to a foreign country.&#xa;&#xa;Example: A U.S. airline flies from the United States to France." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCFCE7;strokeColor=#15803D;fontSize=16;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="370" width="820" height="120" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="box4" value="4th Freedom (International Inbound)&#xa;The right to fly passengers from a foreign country back to the airline&#39;s home country.&#xa;&#xa;Example: A U.S. airline flies from France back to the United States." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E8FF;strokeColor=#7C3AED;fontSize=16;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="510" width="820" height="120" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="box5" value="5th Freedom (Beyond Rights)&#xa;The right to fly passengers between two foreign countries on a flight that originates or ends in the airline&#39;s home country.&#xa;&#xa;Example: Dubai-based Emirates flies Dubai → Milan → New York." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE68A;strokeColor=#B45309;fontSize=16;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="650" width="820" height="140" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="summary" value="Summary:&#xa;These five freedoms define how airlines may operate across international borders.&#xa;The key idea is whether the flight is merely crossing airspace, stopping for technical reasons, or carrying passengers between countries." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F4F6;strokeColor=#6B7280;fontSize=15;align=left;spacing=10;spacingTop=6;spacingLeft=12;spacingRight=12;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="canvas">
+          <mxGeometry x="70" y="830" width="820" height="90" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
